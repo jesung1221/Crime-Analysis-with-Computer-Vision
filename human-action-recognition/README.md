@@ -1,5 +1,4 @@
-# Simple Real Time Multi Person Action Recognition  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=CV-ZMH.human-action-recognition)
+# Simple Real Time Multi Person Action Recognition
 
 # News
 :boom: Added tensorrt conversion script for reid models.
