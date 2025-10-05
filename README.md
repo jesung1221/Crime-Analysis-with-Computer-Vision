@@ -9,4 +9,8 @@ corresponding time frames at which the anomalies occur gets passed to the crime 
 within the video are analyzed and the model outputs one of the following crime categories: (1) Abuse (2) Arson (3) Assault (4) Burglary
 (5) Fighting (6) Robbery (7) Shooting (8) Shoplifting (9) Stealing (10) Vandalism
 
+<img width="466" height="344" alt="tempsnip" src="https://github.com/user-attachments/assets/6359fb80-a242-444d-baba-62637e7c057d" />
+
+
 <img width="1686" height="1013" alt="CrimeClassifierOutputSuccess" src="https://github.com/user-attachments/assets/ead9a60d-f670-4658-a10c-f9f0ed34159d" />
+<img width="1175" height="274" alt="CrimeClassifierAccuracyTable" src="https://github.com/user-attachments/assets/84d4f9a1-3060-4e7b-903a-cc807b71d71e" />
